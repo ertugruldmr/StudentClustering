@@ -506,7 +506,7 @@ The project aimed predict the wine quality score classes using the features. The
 #### __(G) Deployment as web demo app__: 
   - Creating Gradio Web app to Demostrate the project.Then Serving the demo via huggingface as live.
   - Desciption
-    - Project goal is clustering customers based on four features.
+    - Project goal is clustering students based on four features.
     - Usage: Set the feature values through radio buttons then use the button to predict.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
