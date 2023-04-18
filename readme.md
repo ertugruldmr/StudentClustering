@@ -64,7 +64,7 @@
 
 
 - Description
-    - __predict The House Price__  based on features.
+    - __cluster the students__  based on features.
     - __Usage__: Set the feature values through sliding the radio buttons then use the button to predict.
 - Embedded [Demo](https://ertugruldemir-studentclustering.hf.space) window from HuggingFace Space
     
